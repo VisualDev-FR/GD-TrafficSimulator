@@ -1,0 +1,8 @@
+<Project Sdk="Godot.NET.Sdk/4.4.0">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+    <RootNamespace>traficsimulator</RootNamespace>
+    <nowarn>CA1050;IDE0003;IDE0090;IDE0074;IDE0028</nowarn>
+  </PropertyGroup>
+</Project>

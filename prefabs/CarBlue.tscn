@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3 uid="uid://fwhqtc2503lg"]
+
+[ext_resource type="Texture2D" uid="uid://c00ry06732r88" path="res://assets/cars/car_blue_5.png" id="1_k2kkp"]
+[ext_resource type="Script" uid="uid://byx0bn12cf8io" path="res://scripts/Car.cs" id="2_oxwl3"]
+
+[node name="CarBlue" type="Sprite2D"]
+texture = ExtResource("1_k2kkp")
+script = ExtResource("2_oxwl3")
